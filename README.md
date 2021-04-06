@@ -1,6 +1,8 @@
 # Cadastro-Simples-Utilizando-Docker
 
- Projeto criado para fins educacionais com os seguintes conteiners:
+ Projeto CRUD simples
+
+ Containers utilizados:
 
  Backend - Node
 
