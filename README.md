@@ -1,7 +1,5 @@
 # Cadastro-Simples-Utilizando-Docker
 
-# Cadastro-Simples-Utilizando-Docker
-
  Projeto CRUD simples
 
  Containers utilizados:
