@@ -1,9 +1,9 @@
 # Cadastro-Simples-Utilizando-Docker
 
-# Projeto criado para fins educacionais com os seguintes conteiners:
+ Projeto criado para fins educacionais com os seguintes conteiners:
 
-# Backend - Node
+ Backend - Node
 
-# Frontend - nginx
+ Frontend - nginx
 
-# Banco de dados - Mongo
+ Banco de dados - Mongo
